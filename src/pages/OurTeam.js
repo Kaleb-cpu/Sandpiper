@@ -150,7 +150,7 @@ export class OurTeam extends Component {
                             <div class="hide">  
                             </div>
                         </div>{/*verbage*/}
-                    <div class="col-3  justify-content-center font-a32  w3-animate-top hidden-pic" > pic goes here
+                    <div class="col-3 bg29 justify-content-center font-a32  w3-animate-top hidden-pic" >
                     </div>{/*pic*/}
                 </div>{/*new row ending*/}
 

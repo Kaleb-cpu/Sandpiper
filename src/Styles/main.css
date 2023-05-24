@@ -392,6 +392,18 @@ div.bg24{
   min-height: 30vh !important;
   max-height: 30vh;
 }
+
+div.bg29{
+  background-image: url(../media/Connor.png);
+  background-size: cover;
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 25px;
+  min-height: 30vh !important;
+  max-height: 30vh;
+}
+
 div.bg25{
   background-image: url(../media/evicon.svg);
   background-size: 50%;
